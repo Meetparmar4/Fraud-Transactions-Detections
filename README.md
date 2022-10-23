@@ -1,6 +1,6 @@
 # Fraud-Transactions-Detections
 ## About the data 
-It consisted of 5 different transaction types made by customers.
+It consisted of 5 different transaction types made by customers.  [Link to the dataset]([https://link-url-here.org](https://www.kaggle.com/datasets/meetparmarps5/fraud-transaction-detection))
 ### The columns are explained below:
 -  step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).
 -  type - CASH-IN, CASH-OUT, DEBIT, PAYMENT and TRANSFER.
